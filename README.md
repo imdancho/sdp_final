@@ -6,7 +6,7 @@ Mukhradinuly Daniyar
 Kadirbekova Anel  
 Agdal Zhannur  
 
-# Description of the project.
+# Description of the project:
 The topic of the project is a school management system. It allows you to create students, manage their schedule, receive complaints from them and send alerts.  
 
 # Student Class:
