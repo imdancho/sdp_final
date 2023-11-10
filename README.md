@@ -35,8 +35,8 @@ Implement the CourseFactory interface to create instances of SdpCourse and MathC
 # Elective_Course Interface:
 Elective_Course is an interface for elective courses with methods for teaching and enrolling students.
 
-#DesignCourse and ScienceCourse Classes:
+# DesignCourse and ScienceCourse Classes:
 DesignCourse and ScienceCourse are external classes representing elective courses.
 
-#DesignCourseAdapter and ScienceCourseAdapter:
+# DesignCourseAdapter and ScienceCourseAdapter:
 Adapters that implement Elective_Course to adapt external courses into the system.
