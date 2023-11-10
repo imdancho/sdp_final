@@ -50,3 +50,5 @@ DesignCourse and ScienceCourse are external classes representing elective course
 
 # DesignCourseAdapter and ScienceCourseAdapter:
 Adapters that implement Elective_Course to adapt external courses into the system.
+
+https://docs.google.com/document/d/1owklBhVU5yR12Vgq5kxNAM0xO52ZynSCr5xZ0f5DrSw/edit
